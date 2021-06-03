@@ -12,3 +12,6 @@ The paper is publisehd in Astrophysical Journal (ApJ)
 
 
 https://ui.adsabs.harvard.edu/abs/2019ApJ...872..207A/abstract
+
+
+For access to the data, please get in touch with the authors.
