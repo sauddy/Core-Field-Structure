@@ -1,5 +1,3 @@
-# Core-Field-Structure
-
 We develop a new “core field structure” (CFS) model to predict the magnetic field strength and magnetic field
 fluctuation profile of dense cores using gas kinematics. We use spatially resolved observations of the nonthermal
 velocity dispersion from the Green Bank Ammonia survey along with column density maps from SCUBA-2 to
